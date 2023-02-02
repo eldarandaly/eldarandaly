@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mamdouh Eldarandaly</h1>
-<h3 align="center">Senior computer engineering at arab academy for science, technology</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **Graduation project**
+<!-- - 🔭 I’m currently working on **Graduation project** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
