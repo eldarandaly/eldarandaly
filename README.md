@@ -2,6 +2,7 @@
 <h3 align="center">A Software Engineer @ Genesis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldarandaly&label=Profile%20views&color=0e75b6&style=flat" alt="eldarandaly" /> </p>
+<img align="right" height="150" src="https://i.imgflip.com/8hz30s.jpg"  />
 
 
 - 🔭 I’m currently working on [Wholesaler Ecomm Platform](Armaarmy.com)
