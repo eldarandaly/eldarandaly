@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **Python , React , Flutter, DevOps**
 
-- 📫 How to reach me **eldarandaly99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
