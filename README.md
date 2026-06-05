@@ -1,38 +1,125 @@
-<h1 align="center">Hi 👋, I'm Ahmed Eldarandaly</h1>
-<h3 align="center">A Software Engineer @ Genesis</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eldarandaly&label=Profile%20views&color=0e75b6&style=flat" alt="eldarandaly" /> </p>
-<img align="right" height="150" src="https://i.imgflip.com/8hz30s.jpg"  />
+# Ahmed Mamdouh Eldarandaly
 
+**Software Engineer @ [Genesis Infotech](https://github.com/eldarandaly)** · Building AI-powered products for retail, e-commerce, and industrial ops
 
-- 🔭 I’m currently working on [Wholesaler Ecomm Platform](Armaarmy.com)
+[![Profile views](https://komarev.com/ghpvc/?username=eldarandaly&label=Profile%20views&color=1B3A6B&style=flat)](https://github.com/eldarandaly)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
-- 👨‍💻 All of my projects are available at [eldarandaly.ai](eldarandaly.ai)
+[Portfolio](https://eldarandaly.ai) · [LinkedIn](https://linkedin.com/in/ahmed.eldarandaly) · [GitHub](https://github.com/eldarandaly)
 
-- 💬 Ask me about **Python , React , Flutter, DevOps**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmed.eldarandaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed.eldarandaly" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=eldarandaly&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eldarandaly&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=eldarandaly&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About me
+
+I design and ship full-stack systems — from mobile and web frontends to APIs, workers, and cloud deployments. I care about clean architecture, strong typing, and products that hold up in production.
+
+**Currently focused on**
+
+- **Smart Shelf Intelligence** — multi-tenant FMCG shelf monitoring with Claude Vision, NestJS, React, and Flutter
+- **[Armaarmy](https://armaarmy.com)** — wholesaler e-commerce platform
+- **Industrial dashboards & AI** — real-time MMS monitoring, notifications, and chat assistants
+
+**Ask me about:** Python · React · Flutter · NestJS · DevOps · AI integration
+
+---
+
+## Featured work
+
+| Project | Stack | Description |
+|---|---|---|
+| [**shelf_scan**](https://github.com/eldarandaly/shelf_scan) | NestJS · React · Postgres · Redis · Claude | AI shelf scanning platform — 4-pass vision pipeline, analytics, visit reports |
+| [**shelf_scan_flutter**](https://github.com/eldarandaly/shelf_scan_flutter) | Flutter · Dart | Field rep mobile app for in-store capture and visit workflows |
+| [**MMS dashboards**](https://github.com/eldarandaly/MMS_multi_machine_dashboard) | React · Node · Python | Multi-machine monitoring dashboards with AI-assisted insights |
+| [**shopify-bundle-app**](https://github.com/eldarandaly/shopify-bundle-app) | TypeScript · Shopify | Bundle and merchandising tooling for e-commerce |
+| [**sales_team_crm**](https://github.com/eldarandaly/sales_team_crm) | TypeScript · React | Internal CRM for sales team operations |
+
+More projects on my [portfolio](https://eldarandaly.ai) and [GitHub profile](https://github.com/eldarandaly?tab=repositories).
+
+---
+
+## What I'm building lately
+
+```mermaid
+flowchart LR
+  Mobile["Flutter field apps"] --> API["NestJS / Django APIs"]
+  Web["React admin dashboards"] --> API
+  API --> Data[("Postgres / Redis")]
+  API --> AI["Claude / Gemini / custom ML"]
+  Workers["BullMQ / Celery workers"] --> AI
+  Workers --> Data
+  API --> Cloud["AWS · Docker · CI/CD"]
+```
+
+---
+
+## Tech stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+
+**Frontend & mobile**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+
+**Backend & data**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+**Cloud & tooling**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eldarandaly&theme=prussian&hide_border=false" alt="GitHub streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=eldarandaly&show_icons=true&theme=prussian&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldarandaly&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" height="165" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed.eldarandaly)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eldarandaly.ai-1B3A6B)](https://eldarandaly.ai)
+[![Email](https://img.shields.io/badge/Email-ahmedmamdouh430@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:ahmedmamdouh430@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3A6B&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
+
+</div>
