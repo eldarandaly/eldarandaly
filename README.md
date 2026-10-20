@@ -34,13 +34,14 @@ I enjoy building tools for retail intelligence, business automation, data-driven
 ### Currently focused on
 
 - Smart Shelf Intelligence — AI-powered retail monitoring and operational insights
+- Agentic AI products — LLM-based assistants, workflow orchestration, and decision-support systems
 - E-commerce and merchandising systems — workflows, customer experiences, and product tooling
 - Industrial dashboards and monitoring — machine insights, reporting, and operational visibility
 - AI-powered business automation — integrating product logic with data and decision support
 
 ### I work with
 
-Python · React · Flutter · NestJS · Django · DevOps · AI integration · Cloud architecture
+Python · React · Flutter · NestJS · Django · DevOps · AI integration · Agentic workflows · Cloud architecture
 
 ---
 
@@ -48,12 +49,13 @@ Python · React · Flutter · NestJS · Django · DevOps · AI integration · Cl
 
 | Project | Stack | Description |
 |---|---|---|
+| [**MMS dashboards**](https://github.com/eldarandaly/MMS_multi_machine_dashboard) | React · Node.js · Python · AI workflows | Industrial monitoring dashboards with AI-assisted insights, decision support, and operational visibility |
+| [**shelf_scan**](https://github.com/eldarandaly/shelf_scan) | NestJS · React · PostgreSQL · Redis · Claude | AI shelf scanning platform for retail intelligence and operational analytics |
+| [**shelf_scan_flutter**](https://github.com/eldarandaly/shelf_scan_flutter) | Flutter · Dart | Mobile field app for in-store capture and visit workflows |
 | [**GymBro_Application**](https://github.com/eldarandaly/GymBro_Application) | Flutter · Dart | Fitness and workout application focused on user productivity and training tracking |
 | [**Tele_Health_Mobile**](https://github.com/eldarandaly/Tele_Health_Mobile) | Flutter · Mobile · Healthcare | Mobile health platform for patient support and remote care workflows |
 | [**Employees-HR-SYSTEM-2022**](https://github.com/eldarandaly/Employees-HR-SYSTEM-2022) | C# · .NET · Database | HR and employee management system with operational workflow support |
-| [**IBM-Data-Science**](https://github.com/eldarandaly/IBM-Data-Science) | Python · Data Science · ML | Learning and project work covering data science, analytics, and machine learning |
-| [**IBM-data-analyst-professional**](https://github.com/eldarandaly/IBM-data-analyst-professional) | Python · SQL · Data Analysis | Data analyst portfolio project covering reporting, analysis, and business insights |
-| [**BrickBreaker**](https://github.com/eldarandaly/BrickBreaker) | C++ · OpenGL | Graphics and game development project exploring interactive systems |
+| [**IBM-Data-Science**](https://github.com/eldarandaly/IBM-Data-Science) | Python · Data Science · ML | Learning and project work covering analytics, modeling, and machine learning |
 
 More projects are available on my [GitHub profile](https://github.com/eldarandaly?tab=repositories).
 
@@ -71,6 +73,7 @@ At Genesis Infotech, I contributed to private internal systems across several do
 - real-estate and sales platforms
 - mobile and web business applications
 - monitoring dashboards and operational tools
+- AI-powered assistants and agentic workflow tooling
 
 These experiences strengthened my ability to design practical systems that support real business needs, not just code quality in isolation.
 
@@ -83,8 +86,8 @@ flowchart LR
   Mobile["Flutter field apps"] --> API["NestJS / Django APIs"]
   Web["React admin dashboards"] --> API
   API --> Data[("PostgreSQL / Redis")]
-  API --> AI["Claude / Gemini / custom ML"]
-  Workers["Background workers"] --> AI
+  API --> AI["LLM / agentic AI workflows"]
+  Workers["Background workers & orchestration"] --> AI
   Workers --> Data
   API --> Cloud["AWS · Docker · CI/CD"]
 ```
@@ -114,6 +117,12 @@ flowchart LR
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### AI & automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-111827?logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 
 ### Cloud & tooling
 
