@@ -10,6 +10,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
@@ -41,7 +42,7 @@ I enjoy building tools for retail intelligence, business automation, data-driven
 
 ### I work with
 
-Python · React · Flutter · NestJS · Django · DevOps · AI integration · Agentic workflows · Cloud architecture
+Python · React · Flutter · Go · NestJS · Django · DevOps · AI integration · Agentic workflows · Cloud architecture
 
 ---
 
@@ -49,7 +50,7 @@ Python · React · Flutter · NestJS · Django · DevOps · AI integration · Ag
 
 | Project | Stack | Description |
 |---|---|---|
-| [**MMS dashboards**](https://github.com/eldarandaly/MMS_multi_machine_dashboard) | React · Node.js · Python · AI workflows | Industrial monitoring dashboards with AI-assisted insights, decision support, and operational visibility |
+| [**MMSX**](https://github.com/eldarandaly/MMS_multi_machine_dashboard) | Go · React · Node.js · Python · AI workflows | Industrial monitoring platform with AI-assisted insights, predictive visibility, and operational dashboards |
 | [**shelf_scan**](https://github.com/eldarandaly/shelf_scan) | NestJS · React · PostgreSQL · Redis · Claude | AI shelf scanning platform for retail intelligence and operational analytics |
 | [**shelf_scan_flutter**](https://github.com/eldarandaly/shelf_scan_flutter) | Flutter · Dart | Mobile field app for in-store capture and visit workflows |
 | [**GymBro_Application**](https://github.com/eldarandaly/GymBro_Application) | Flutter · Dart | Fitness and workout application focused on user productivity and training tracking |
@@ -83,7 +84,7 @@ These experiences strengthened my ability to design practical systems that suppo
 
 ```mermaid
 flowchart LR
-  Mobile["Flutter field apps"] --> API["NestJS / Django APIs"]
+  Mobile["Flutter field apps"] --> API["NestJS / Django / Go APIs"]
   Web["React admin dashboards"] --> API
   API --> Data[("PostgreSQL / Redis")]
   API --> AI["LLM / agentic AI workflows"]
@@ -101,6 +102,7 @@ flowchart LR
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 
