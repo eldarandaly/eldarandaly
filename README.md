@@ -46,6 +46,34 @@ Python · React · Flutter · Go · NestJS · Django · DevOps · AI integration
 
 ---
 
+## Featured work
+
+- **MMSX** — Industrial monitoring and machine intelligence platform  
+  Stack: Go · React · Node.js · Python  
+  Focus: real-time dashboards, monitoring, AI-assisted insights, and operational visibility
+
+- **Wasila** — Customer-facing business platform  
+  Stack: React · NestJS · PostgreSQL  
+  Focus: workflows, operations, and digital customer experiences
+
+- **Ziara** — Mobile and web product experience  
+  Stack: Flutter · React · API services  
+  Focus: customer-facing workflows and product interaction
+
+- **CRM** — Internal business and customer management system  
+  Stack: React · Node.js · PostgreSQL  
+  Focus: pipeline management, operations, and business workflows
+
+- **sales_team_crm** — Sales operations and team workflow platform  
+  Stack: TypeScript · React  
+  Focus: sales process management, team coordination, and operational efficiency
+
+- **VMS** — Visitor / operations management system  
+  Stack: Flutter · React · Go · PostgreSQL  
+  Focus: monitoring, field operations, and digital operational control
+
+---
+
 ## Featured public projects
 
 | Project | Stack | Description |
