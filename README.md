@@ -74,7 +74,7 @@ Python · React · Flutter · Go · NestJS · Django · DevOps · AI integration
 
 ---
 
-## Featured public projects
+## Featured projects
 
 | Project | Stack | Description |
 |---|---|---|
